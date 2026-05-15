@@ -34,3 +34,4 @@ class Config(object):
     SPEED_CHECK_GRACE_SECONDS = int(os.environ.get("SPEED_CHECK_GRACE_SECONDS", "20"))
 class Txt(object):
 
+    pass
